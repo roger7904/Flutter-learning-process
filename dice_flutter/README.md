@@ -7,10 +7,9 @@ A dice app with functionality.
 
 ## What I learned
 
-* How to create Stateless Widgets
-* How to use Containers to lay out UI
-* How to use Columns and Rows to position UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-
+- How to use Flutter stateless widgets to design the user interface.
+- How to use Flutter stateful widgets to update the user interface.
+- How to change the properties of various widgets.
+- How to use onPressed listeners to detect when buttons are pressed.
+- How to use setState to update on the next render.
+- How to use Expanded to make widgets adapt to screen dimensions.
