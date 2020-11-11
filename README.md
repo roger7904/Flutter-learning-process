@@ -20,3 +20,5 @@ Officially created in collaboration with the Google Flutter team.
 * [My podcast show](https://github.com/roger7904/Flutter-learning-process/tree/main/mypodcast_flutter)
 * [A dice app with functionality](https://github.com/roger7904/Flutter-learning-process/tree/main/dice_flutter)
 * [A quiz app that tests general knowledge](https://github.com/roger7904/Flutter-learning-process/tree/main/quiz_flutter)
+* [A bmi app that provide user to calculate their bmi](https://github.com/roger7904/Flutter-learning-process/tree/main/bmi_flutter)
+
