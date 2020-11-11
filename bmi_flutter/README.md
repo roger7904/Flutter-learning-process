@@ -1,6 +1,6 @@
 # bmi_flutter
 
-A bmi app that provide user calculate their bmi.
+A bmi app that provide user to calculate their bmi.
 ***
 
 ![app](docs/gif.gif)
