@@ -1,4 +1,4 @@
-# <div align="center">bmi_flutterr</div>
+# <div align="center">bmi_flutter</div>
 
 <div align="center">A bmi app that provide user to calculate their bmi.
   
