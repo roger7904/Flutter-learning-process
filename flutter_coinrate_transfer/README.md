@@ -1,6 +1,6 @@
 # <div align="center">currency conversion_flutter</div>
 
-<div align="center">A currency concersion app that connect multiple api to retrieve different data.
+<div align="center">A currency conversion app that connect multiple api to retrieve different data.
   
 <br>
 <br>
