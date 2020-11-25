@@ -1,6 +1,6 @@
 # <div align="center">currency conversion_flutter</div>
 
-<div align="center">A bmi app that provide user to calculate their bmi.
+<div align="center">A currency concersion app that connect multiple api to retrieve different data.
   
 <br>
 <br>
@@ -17,13 +17,7 @@
 
 ## What I learned
 
-- How to use Flutter themes to create coherent branding.
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+- How to use the DropdownButton Widget from Material design.
+- How to use Cupertino Widgets in your app.
+- How to check the platform your app is being run on to customise the UI for that platform.
 
