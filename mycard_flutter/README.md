@@ -1,6 +1,14 @@
-# mycard_flutter
+# <div align="center"> mycard_flutter</div>
+
+<div align="center">
+  
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+</div>
 
 A personal business card.
+
 ***
 
 ![project.png](docs/project.png)
