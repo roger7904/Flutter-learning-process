@@ -1,11 +1,12 @@
 # <div align="center">Flutter-learning-process</div>
 
-<div align="center">This is my early learning process in contact with Flutter, I choose [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) course, [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/#instructor-1) at Udemy as the starting point for learning Flutter.
-
+<div align="center">
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 </div>
+
+This is my early learning process in contact with Flutter, I choose [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) course, [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/#instructor-1) at Udemy as the starting point for learning Flutter.
 
 ***
 
