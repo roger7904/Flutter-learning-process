@@ -1,6 +1,6 @@
 # <div align="center"> quiz_flutter</div>
 
-<div align="center"A quiz app that tests general knowledge.
+<div align="center">A quiz app that tests general knowledge.
   
 <br>
 <br>
