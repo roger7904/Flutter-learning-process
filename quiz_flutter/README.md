@@ -1,6 +1,16 @@
-# quiz_flutter
+# <div align="center"> quiz_flutter</div>
 
-A quiz app that tests general knowledge.
+<div align="center"A quiz app that tests general knowledge.
+  
+<br>
+<br>
+  
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+</div>
+
+
 ***
 
 ![app](docs/gif.gif)
