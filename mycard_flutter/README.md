@@ -1,7 +1,6 @@
 # <div align="center"> mycard_flutter</div>
 
-<div align="center">
-A personal business card.
+<div align="center">A personal business card.
   
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
