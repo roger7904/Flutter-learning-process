@@ -1,6 +1,16 @@
-# dice_flutter
+# <div align="center"> dice_flutter</div>
 
-A dice app with functionality.
+<div align="center">A dice app with functionality.
+  
+<br>
+<br>
+  
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+</div>
+
+
 ***
 
 ![app](docs/gif.gif)
