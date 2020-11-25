@@ -17,12 +17,13 @@
 
 ## What I learned
 
-- How to use Flutter themes to create coherent branding.
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+- How to use Dart to perform asynchronous tasks.
+- Learn about Futures and.
+- How to network with the Dart http package.
+- What APIs are and how to use them to get data from the internet.
+- What JSONs are and how to parse them using the Dart convert package.
+- How to pass data forwards and backwards between screens using the Navigator.
+- How to handle exceptions in Dart using try/catch/throw.
+- Learn about the lifecycle of Stateful Widgets and how to override them.
+- How to use the Geolocator package to get live location data for both iOS and Android.
+- How to use the TextField Widget to take user input.
