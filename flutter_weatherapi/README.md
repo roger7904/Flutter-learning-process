@@ -1,4 +1,4 @@
-# <div align="center">weather_flutter</div>
+# <div align="center">weatherapi_flutter</div>
 
 <div align="center">A weather app that connect api to retrieve data.
   
