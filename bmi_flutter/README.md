@@ -1,6 +1,16 @@
-# bmi_flutter
+# <div align="center">bmi_flutterr</div>
 
-A bmi app that provide user to calculate their bmi.
+<div align="center">A bmi app that provide user to calculate their bmi.
+  
+<br>
+<br>
+  
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+</div>
+
+
 ***
 
 ![app](docs/gif.gif)
