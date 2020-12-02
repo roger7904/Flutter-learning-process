@@ -31,3 +31,5 @@ Officially created in collaboration with the Google Flutter team.
 * [A bmi app that provide user to calculate their bmi](https://github.com/roger7904/Flutter-learning-process/tree/main/bmi_flutter)
 * [A weather app that connect api to retrieve data](https://github.com/roger7904/Flutter-learning-process/tree/main/flutter_weatherapi)
 * [A currency app that connect multiple api to retrieve different data](https://github.com/roger7904/Flutter-learning-process/tree/main/flutter_coinrate_transfer)
+* [A chat app that connect firebase to store and display data](https://github.com/roger7904/Flutter-learning-process/tree/main/chat_flutter)
+* [A to-do list app that provide user to add and cancel tasks](https://github.com/roger7904/Flutter-learning-process/tree/main/todo_flutter)
