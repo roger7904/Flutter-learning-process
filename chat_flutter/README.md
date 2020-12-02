@@ -13,7 +13,8 @@
 
 ***
 
-![app](docs/gif.gif)
+![app](docs/gif1.gif)
+![app](docs/gif2.gif)
 
 ## What I learned
 
