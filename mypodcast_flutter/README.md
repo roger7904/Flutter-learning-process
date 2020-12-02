@@ -1,6 +1,6 @@
 # <div align="center">mypodcast_flutter</div>
 
-<div align="center">A app that present my podcast show.
+<div align="center">An app that present my podcast show.
   
 <br>
 <br>
