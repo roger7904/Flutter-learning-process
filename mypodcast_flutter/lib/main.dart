@@ -45,20 +45,20 @@ class MyHomePage extends StatelessWidget {
               child: Column(
                 children: <Widget>[
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/1.jpg',
+                      sound: 'assets/sound/EP1.mp3'),
                   SizedBox(
                     height: 10.0,
                   ),
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/2.jpg',
+                      sound: 'assets/sound/EP2.mp3'),
                   SizedBox(
                     height: 10.0,
                   ),
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/3.jpg',
+                      sound: 'assets/sound/EP3.mp3'),
                 ],
               ),
             ),
@@ -66,20 +66,20 @@ class MyHomePage extends StatelessWidget {
               child: Column(
                 children: <Widget>[
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/4.jpg',
+                      sound: 'assets/sound/EP4.mp3'),
                   SizedBox(
                     height: 10.0,
                   ),
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/5.jpg',
+                      sound: 'assets/sound/EP5.mp3'),
                   SizedBox(
                     height: 10.0,
                   ),
                   buildKey(
-                      img: 'assets/images/program.jpg',
-                      sound: 'assets/sound/EP0.mp3'),
+                      img: 'assets/images/6.jpg',
+                      sound: 'assets/sound/EP6.mp3'),
                 ],
               ),
             ),
