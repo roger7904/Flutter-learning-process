@@ -36,4 +36,4 @@ Officially created in collaboration with the Google Flutter team.
 
 ## Course Completion Certificate
 
-![Course Completion Certificate]()
+![Course Completion Certificate](docs/udemy.jpg)
