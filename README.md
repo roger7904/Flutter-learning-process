@@ -33,3 +33,7 @@ Officially created in collaboration with the Google Flutter team.
 * [A currency app that connect multiple api to retrieve different data](https://github.com/roger7904/Flutter-learning-process/tree/main/flutter_coinrate_transfer)
 * [A chat app that connect firebase to store and display data](https://github.com/roger7904/Flutter-learning-process/tree/main/chat_flutter)
 * [A to-do list app that provide user to add and cancel tasks](https://github.com/roger7904/Flutter-learning-process/tree/main/todo_flutter)
+
+## Course Completion Certificate
+
+![Course Completion Certificate]()
